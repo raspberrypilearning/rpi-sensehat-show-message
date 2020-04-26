@@ -1,18 +1,18 @@
-Make sure you have the following lines of code in your Python program to set up your connection with the Sense HAT. There is no need to add them more than once.
+Zorg ervoor dat je de volgende coderegels in je Python-programma hebt om je verbinding met de Sense HAT in te stellen. Het is niet nodig om ze meerdere keren toe te voegen.
 
 ```python
 from sense_hat import SenseHat
-sense = SenseHat()
+sense = SenseHat ()
 ```
 
-+ Add this code to display a message on the Sense HAT's LED matrix.
++ Voeg deze code toe om een bericht op de LED-matrix van de Sense HAT weer te geven.
 
 ```python
-sense.show_message("Hello world")
+sense.show_message("Hallo wereld")
 ```
 
-The message "Hello world" will now scroll across the LED screen.
+Het bericht "Hallo wereld" zal nu over het LED-scherm scrollen.
 
-+ Change the words in the quotes (`""`) to see a different message.
++ Wijzig de woorden tussen de aanhalingstekens (`""`) om een ander bericht te zien.
 
-You can try it out here: <iframe src="https://trinket.io/embed/python/224b71fc28" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe>
+Je kunt het hier proberen: <iframe src="https://trinket.io/embed/python/224b71fc28" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe>
