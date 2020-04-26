@@ -1,7 +1,7 @@
 ---
-title: Show a message on the Sense HAT
+title: Toon een bericht op de Sense HAT
 hero_image: images/banner.png
-description: Learn how to show a scrolling message on the Sense HAT's LED matrix
+description: Leer hoe je een scrollend bericht kunt weergeven op de LED-matrix van de Sense HAT
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: "sense-hat, python"
 steps:
   - 
-    title: Introduction
+    title: Inleiding
