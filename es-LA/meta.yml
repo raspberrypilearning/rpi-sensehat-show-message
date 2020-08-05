@@ -1,0 +1,14 @@
+---
+title: Muestra un mensaje en el Sense HAT
+hero_image: images/banner.png
+description: Aprende a mostrar un mensaje en movimiento en la matriz LED de Sense HAT
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ""
+technologies: "sense-hat, python"
+steps:
+  - title: Introducción
