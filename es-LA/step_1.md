@@ -8,10 +8,10 @@ sense = SenseHat()
 + Agrega este código para mostrar el mensaje en la matriz de LED de Sense HAT.
 
 ```python
-sense.show_message("Hello world")
+sense.show_message("Hola mundo")
 ```
 
-El mensaje "Hello world" ahora se desplazará por la pantalla LED.
+El mensaje "Hola mundo" ahora se desplazará por la pantalla LED.
 
 + Cambia las palabras en las comillas (`""`) para ver un mensaje diferente.
 
