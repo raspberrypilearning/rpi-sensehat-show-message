@@ -15,4 +15,4 @@ Het bericht "Hallo wereld" zal nu over het LED-scherm scrollen.
 
 + Wijzig de woorden tussen de aanhalingstekens (`""`) om een ander bericht te zien.
 
-Je kunt het hier proberen: <iframe src="https://trinket.io/embed/python/224b71fc28" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe>
+Je kunt het hier proberen: <iframe src="https://trinket.io/embed/python/224b71fc28" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
