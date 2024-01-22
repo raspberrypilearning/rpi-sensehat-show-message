@@ -15,4 +15,4 @@ El mensaje "Hola mundo" ahora se desplazará por la pantalla LED.
 
 + Cambia las palabras en las comillas (`""`) para ver un mensaje diferente.
 
-Puedes probarlo aquí: <iframe src="https://trinket.io/embed/python/224b71fc28" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe>
+Puedes probarlo aquí: <iframe src="https://trinket.io/embed/python/224b71fc28" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
