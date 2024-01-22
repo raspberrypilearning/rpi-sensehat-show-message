@@ -15,4 +15,4 @@ The message "Hello world" will now scroll across the LED screen.
 
 + Change the words in the quotes (`""`) to see a different message.
 
-You can try it out here: <iframe src="https://trinket.io/embed/python/224b71fc28" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe>
+You can try it out here: <iframe src="https://trinket.io/embed/python/224b71fc28" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
