@@ -1,0 +1,4 @@
+name: "Sense HAT show message"
+identifier: "rpi-sensehat-show-message-example"
+type: 'python'
+build: true
